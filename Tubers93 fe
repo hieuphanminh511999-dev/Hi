@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://tubers93fe.com/talentless-raw/TALENTLESS.lua", true))()
